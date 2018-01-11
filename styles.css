@@ -1,0 +1,49 @@
+/* add your CSS here */
+body
+{
+color: #000000
+background: #ffffff;
+font-style: normal;
+font-size: 1em; 
+font-family: sans-serif;
+}
+
+.card-info {
+	width: 300px; 
+	border: 1px solid #808080;
+	padding: 10px;
+	box-shadow: 5px 10px #e6e6e6;
+}
+
+.animal-title {
+	margin: 0;
+	font-size: 1.7em;
+}
+
+.lion-picture {
+	padding: 5px 0;
+}
+
+.card-content {
+	margin: 0;
+	border: 1px solid #808080;
+	padding: 10px;
+}
+
+.lion-facts {
+    font-style: italic;
+}
+
+.lion-details {
+	list-style-type: none;
+	padding: 0;
+}
+
+span {
+    font-weight: bold;
+}
+
+.lion-info {
+	margin: 0;
+}
+
